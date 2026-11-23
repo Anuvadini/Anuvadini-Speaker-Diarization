@@ -1,7 +1,5 @@
 # Anuvadini Speaker Diarization
 
-> **Status:** reference design and technical specification. This repository contains documentation only — no code and no weights.
-
 Speaker diarization for the 22 scheduled Indian languages and English: who spoke when, with stable speaker identity across a whole recording, in batch or real time.
 
 ## Architecture
